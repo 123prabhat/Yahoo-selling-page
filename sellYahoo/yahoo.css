@@ -1,0 +1,33 @@
+body
+{
+    margin-top:20px;
+}
+
+.na-justified
+{
+    background-color:#baf1a1 ;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+.na-justified>li>a
+{
+    padding:15px 90px;
+    color: black;
+    font-size:12px;
+    text-align:center;
+    
+}
+
+.jumbotron
+{
+    text-align:center;
+}
+.divider
+{
+    margin:5px;
+    background-color:darkblue;
+}
+.centro
+{
+    text-align:center;
+}
